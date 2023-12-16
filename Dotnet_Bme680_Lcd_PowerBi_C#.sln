@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet_Bme680_Lcd_PowerBi_C#", "Dotnet_Bme680_Lcd_PowerBi_C#.csproj", "{9A77E5AD-FF5F-4061-8088-36251E59F1FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A77E5AD-FF5F-4061-8088-36251E59F1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A77E5AD-FF5F-4061-8088-36251E59F1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A77E5AD-FF5F-4061-8088-36251E59F1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A77E5AD-FF5F-4061-8088-36251E59F1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8132889-471A-4DFD-A40B-93CAF894735B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/smart/Dotnet_Bme680_Lcd_PowerBi_C#/Dotnet_Bme680_Lcd_PowerBi_C#.csproj": {}
+  },
+  "projects": {
+    "/home/smart/Dotnet_Bme680_Lcd_PowerBi_C#/Dotnet_Bme680_Lcd_PowerBi_C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/smart/Dotnet_Bme680_Lcd_PowerBi_C#/Dotnet_Bme680_Lcd_PowerBi_C#.csproj",
+        "projectName": "Dotnet_Bme680_Lcd_PowerBi_C#",
+        "projectPath": "/home/smart/Dotnet_Bme680_Lcd_PowerBi_C#/Dotnet_Bme680_Lcd_PowerBi_C#.csproj",
+        "packagesPath": "/home/smart/.nuget/packages/",
+        "outputPath": "/home/smart/Dotnet_Bme680_Lcd_PowerBi_C#/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/smart/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Iot.Device.Bindings": {
+              "target": "Package",
+              "version": "[2.2.0-*, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
